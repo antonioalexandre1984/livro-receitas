@@ -1,7 +1,8 @@
-# Livro de receitas :man_cook:
+- # Livro de receitas 👨‍🍳
 
-Olá ! bem vindo ao meu livro de receitas:wave:
+  Olá ! bem vindo ao meu livro de receitas👋
 
-- Cuscuz;
-- Ovos
-- Queijo.
+  - Cuscuz;
+  - Ovos
+  - Queijo.
+  - Mortadela
