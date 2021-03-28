@@ -5,3 +5,4 @@ Olá ! bem vindo ao meu livro de receitas:wave:
 - Cuscuz;
 - Ovos
 - Queijo.
+- Mortadela
